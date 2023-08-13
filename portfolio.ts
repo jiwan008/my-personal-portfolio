@@ -198,8 +198,8 @@ export const projects: ProjectType[] = [
   {
     name: 'Personal Portfolio Website',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
-    github: 'https://github.com/1hanzla100/developer-portfolio',
-    link: 'https://developer-portfolio-1hanzla100.vercel.app/',
+    github: 'https://github.com/jiwan008/my-personal-portfolio',
+    link: 'https://my-personal-portfolio-omega.vercel.app/',
   },
   {
     name: 'Real Time Weather App',
@@ -239,7 +239,7 @@ export const seoData: SEODataType = {
     'A passionate MERN Stack Web Developer',
   author: 'Jeevan Kumar Sah',
   image: 'profile_pic',
-  url: 'https://my-personal-portfolio-omega.vercel.app/',
+  url: 'https://jeevan-portfolio-omega.vercel.app/',
   keywords: [
     'Jeevan portfolio',
     "jeevan's portfolio",
