@@ -13,7 +13,6 @@ Live Demo : [click here](https://my-personal-portfolio-omega.vercel.app/)
 ✔️ Skills\
 ✔️ Education\
 ✔️ Work Experience\
-✔️ Feedbacks\
 ✔️ Projects\
 ✔️ Github Profile
 
