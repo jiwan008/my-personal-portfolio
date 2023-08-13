@@ -17,7 +17,7 @@ export const greetings: GreetingsType = {
   description:
     "I am a passionate MERN Stack developer currently pursuing my Master's in Computer Applications at NIT Jamshedpur. With a strong foundation in MERN (MongoDB, Express.js, React, Node.js) technology stack, I have successfully crafted numerous projects that demonstrate my expertise and commitment to delivering high-quality web applications.",
   resumeLink:
-    'https://drive.google.com/file/d/13PVdLA7RFK4oWNLqQz6OYx_dJG5xMgMO/view?usp=sharing',
+    'https://drive.google.com/file/d/1MgtOB99nX2tAEJa6jBUGY4oPhHPuHyyt/view?usp=sharing',
 };
 
 export const openSource = {
