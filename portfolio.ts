@@ -27,11 +27,12 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-   url: 'https://github.com/jiwan008',
+   url: 'https://leetcode.com/jeevan_rishu/',
   linkedin: 'https://www.linkedin.com/in/jeevan-kumar-sah-497a2614a/',
   github: 'https://github.com/jiwan008',
   instagram: 'https://www.instagram.com/jeevan_rishu/',
   facebook: 'https://www.facebook.com/profile.php?id=100076642455788',
+  leetcode : 'https://leetcode.com/jeevan_rishu/',
 };
 
 export const skillsSection: SkillsSectionType = {
@@ -238,9 +239,12 @@ export const seoData: SEODataType = {
     'A passionate MERN Stack Web Developer',
   author: 'Jeevan Kumar Sah',
   image: 'profile_pic',
-  url: 'https://developer-portfolio-1hanzla100.vercel.app',
+  url: 'https://my-personal-portfolio-omega.vercel.app/',
   keywords: [
-    'Jeevan',
+    'Jeevan portfolio',
+    "jeevan's portfolio",
+    "jeevan kumar sah portfolio",
+    "rishu portfolio",
     'Jeevan Kumar Sah',
     'jiwan008',
     'jeevan_rishu',
