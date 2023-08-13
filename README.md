@@ -95,7 +95,7 @@ Iconify Icons are used in skill section. You can find all the icons here: [Iconi
 
 👤 **Jeevan Kumar Sah**
 
-- Website: https://hanzla.netlify.app
+
 - Github: [@jiwan008](https://github.com/jiwan008)
 - LinkedIn: [@jiwan008](https://www.linkedin.com/in/jeevan-kumar-sah-497a2614a/)
 
