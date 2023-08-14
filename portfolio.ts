@@ -199,7 +199,7 @@ export const projects: ProjectType[] = [
     name: 'Personal Portfolio Website',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
     github: 'https://github.com/jiwan008/my-personal-portfolio',
-    link: 'https://my-personal-portfolio-omega.vercel.app/',
+    link: 'https://jeevan-portfolio-omega.vercel.app/',
   },
   {
     name: 'Real Time Weather App',
