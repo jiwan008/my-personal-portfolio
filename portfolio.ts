@@ -225,6 +225,12 @@ export const projects: ProjectType[] = [
     github: 'https://github.com/jiwan008/Todo-List',
     link: 'https://jiwan008.github.io/Todo-List/',
   },
+  {
+    name: 'Contact-Management-App',
+    desc: "I've crafted a dynamic React and TypeScript-based contact management app that offers a trio of essential features: adding, editing, and deleting contacts. Users can seamlessly input, modify, and remove contact details, ensuring a comprehensive and efficient approach to maintaining their contact list.",
+    github: 'https://github.com/jiwan008/Contact-Management-App',
+    link: 'https://jiwan008.github.io/Contact-Management-App/',
+  },
 
 ];
 
